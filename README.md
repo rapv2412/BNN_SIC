@@ -1,3 +1,1 @@
 # BNN SIC
-
-test
